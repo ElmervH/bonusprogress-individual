@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Celestine's Bonus Progress</title>
+  <title>My Bonus Progress</title>
   <style>
     body {
       font-family: 'Rethink Sans', Arial, sans-serif;
-      background: url('https://bordercollieblog.nl/wp-content/uploads/2021/06/border-collie-4449956_1280-300x200.jpg') no-repeat center center fixed;
+      background: url('https://www.hotelgift.com/media/wp/HG/2022/11/cover-wintersport-NL.webp') no-repeat center center fixed;
       background-size: cover;
       color: #333333;
       display: flex;
@@ -149,7 +149,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Celestine's Bonus Progress</h1>
+    <h1>My Bonus Progress</h1>
     <div class="progress-bar-container">
       <div class="progress-bar" id="progress-bar">
         <img src="https://media.licdn.com/dms/image/v2/D4E03AQG_nkgYQS81Dw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666800722730?e=1740009600&v=beta&t=e0L0X011OU9ZqNFvQPQIWcScpkADxOqShbf1t-et3Ts" alt="Celestine">
@@ -267,3 +267,4 @@
   </script>
 </body>
 </html>
+
